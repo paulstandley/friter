@@ -7,4 +7,5 @@ $ php artisan preset react
 $ npm install && npm run dev
 $ npm run watch
 $ php artisan make:auth
+$ php artisan make:controller PostsController --resource
 ```
