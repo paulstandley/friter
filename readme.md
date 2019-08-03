@@ -1,6 +1,12 @@
-# Friter by Paul Standley
+# <h1 style="color:blue"><strong>PAUL STANDLEY</strong></h1>
 
-## Bash
+![Profile Pick](http://res.cloudinary.com/pieol2/image/upload/v1516543296/profile-small.png)
+
+___
+
+## Friter away your life online, get out go see the sun
+
+### Bash
 
 ```BASH
 $ php artisan preset react
