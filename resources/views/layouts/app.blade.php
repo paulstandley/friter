@@ -74,7 +74,9 @@
 
         <main class="py-4">
             @yield('content')
+            @yield('welcome')
         </main>
     </div>
+    <script src="js/app.js"></script>
 </body>
 </html>

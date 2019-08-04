@@ -1,3 +1,10 @@
 body {
-  background: rgba(160, 209, 209, 0.8) !important;
+  background: rgba(214, 238, 238, 0.8) !important;
+}
+
+.header_welcome {
+  text-align: center;
+  .header_welcome_h1 {
+    color: darkgray;
+  }
 }
