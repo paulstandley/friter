@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('welcome')
-<div class="content">    
+<div class="content">  
     <header class="header_welcome">
         <h1 class="header_welcome_h1">
             Friter
